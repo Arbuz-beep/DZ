@@ -1,6 +1,5 @@
  HEAD
 coflict i gues?
-=======
 another boring content
 f2
 goon content
